@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/moongetsu">
-    <img src="https://cdn.moongetsu.ro/GitHub/GithubHeader.png" alt="GithubHeader" width="100%" height="100%">
+    <img src="https://cdn.moongetsu.ro/GitHub/GithubHeader00.png" alt="GithubHeader" width="100%" height="100%">
   </a>
 
   <h3 align="center">[Sourcemod] Custom Commands</h3>
